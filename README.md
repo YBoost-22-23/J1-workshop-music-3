@@ -3,7 +3,7 @@ YBoost workshop #3 | 12/10/2022
 
 # Terminal Dataviz
 
-## Objectif :
+## Objective :
 You have to create a golang program that will be able to display data visualization about music in the terminal.
 You are free to choose the data you want to display but you can find in this link an example : https://www.instagram.com/rapminerz/
 We recommand you tu use [termui](https://github.com/gizak/termui) to display your data.
