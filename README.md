@@ -41,3 +41,10 @@ You have to display the data you retrieved in the terminal using [termui](https:
 ## What is an API ?
 An API is an interface that allows you to retrieve data from a website. API are set up by developers to allow other developers to use their data and make applications with it.
 
+## ORGANISATION PROPOSITION
+
+Dev 1 (easy) : Create a script which exclude determinants (like "the") to only get key words and count each word  
+Dev 2 (easy) : Create a script which display all featurings from an artist  
+Dev 3 (easy) : Create a script which parse songs of different singers and display the one using the most the key word enter  
+Dev 4 (medium -) : Create a script which find chorus in a song and display the percentage of chorus / verse  
+Dev 5 (hard) : Create a script which order words by lexical field   
